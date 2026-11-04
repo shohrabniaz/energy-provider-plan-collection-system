@@ -1,10 +1,17 @@
 {
-  "seq": 61,
   "title": "Energy Provider Plan Collection System",
+  "old_slug": "energy-provider-plan-collection-system",
   "slug": "energy-provider-plan-collection-system",
   "folder": "Energy_Provider_Plan_Collection_System",
   "kind": "general",
-  "body_words": 237,
+  "body_words": 297,
+  "source": "MICT Academic",
   "project_id": "Academic Project 1",
-  "source": "MICT Academic"
+  "public": {
+    "public_ok": true,
+    "tier": "public-ok",
+    "reasons": [
+      "Showcase-ready design pack with labelled synthetic baseline"
+    ]
+  }
 }
