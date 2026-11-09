@@ -58,7 +58,18 @@ python -m src.cli run
 python tests\test_smoke.py
 ```
 
-Domain engine kind: `general`.
+Domain engine kind: `product`.
 
 **Author:** Md Shohrab Hossen Niaz  
 **GitHub:** `energy-provider-plan-collection-system`
+
+## Local web console
+
+Product packs include a zero-dependency local UI:
+
+```powershell
+python -m src.webapp
+```
+
+Then open `http://127.0.0.1:8765`.
+

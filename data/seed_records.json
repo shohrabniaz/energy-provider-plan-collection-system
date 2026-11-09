@@ -1,30 +1,38 @@
 [
   {
-    "title": "Energy Provider Plan Collection System - intake request",
+    "title": "Energy Provider Plan Collection System \u2014 new energy provider plan collection request",
     "status": "open",
     "meta": {
+      "source": "web",
       "priority": "high"
     }
   },
   {
-    "title": "Schedule follow-up",
-    "status": "open",
+    "title": "Review energy provider plan collection backlog",
+    "status": "in_progress",
     "meta": {
       "priority": "medium"
     }
   },
   {
-    "title": "Close completed onboarding",
+    "title": "Customer follow-up for energy provider plan collection",
+    "status": "blocked",
+    "meta": {
+      "priority": "high"
+    }
+  },
+  {
+    "title": "Completed energy provider plan collection onboarding",
     "status": "done",
     "meta": {
       "priority": "low"
     }
   },
   {
-    "title": "Waiting on customer evidence",
-    "status": "blocked",
+    "title": "QA check \u2014 energy-provider-plan-collection-system",
+    "status": "open",
     "meta": {
-      "priority": "high"
+      "priority": "medium"
     }
   }
 ]
